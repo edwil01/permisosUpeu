@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707338049998",
+    "firebase_url": "https://residencia-f30b4.firebaseio.com",
+    "project_id": "residencia-f30b4",
+    "storage_bucket": "residencia-f30b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707338049998:android:712a9c0e91b4ed3219739f",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.upeupermisos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707338049998-9q3oj8vh5r10b7s72oaesrplrl9ikkql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mpE2l9gnPiY9XxruFlTy8BEbLXYPKFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707338049998-9q3oj8vh5r10b7s72oaesrplrl9ikkql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
